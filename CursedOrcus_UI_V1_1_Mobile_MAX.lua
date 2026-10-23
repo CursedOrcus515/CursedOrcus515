@@ -1,5 +1,3 @@
-Ini source violence District, jadi kamu hanya perlu upgrade dan kembangkan update karena ini harus di maksimal kan.
-
 local function SafeDrawing(type)
     local success, result = pcall(function()
         return Drawing.new(type)
