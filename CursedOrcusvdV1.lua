@@ -1,4 +1,3 @@
--- This WILL NOT WORK ON LOW UNC EXECUTORS LIKE XENO
 local function SafeDrawing(type)
     local success, result = pcall(function()
         return Drawing.new(type)
