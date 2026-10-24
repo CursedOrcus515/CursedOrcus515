@@ -1,4 +1,4 @@
--- LUAOBF-6TTB6 | Obfuscated Lua script | 2026-10-24
+-- Phantom Ball V1.2
 local function _d947wg(b,k)
   local n=#k
   if n==0 then return "" end
